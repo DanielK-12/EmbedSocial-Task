@@ -247,7 +247,7 @@ button{
 }
 .card
 {
-	min-width: 15%;
+	min-width: 200px;
   max-width: 15%;
 	padding: 30px 30px;
 	background-color: #fff;
